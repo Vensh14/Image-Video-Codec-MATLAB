@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.mexw64
+*.mexa64
+*.mexmaci64
+codegen/
+slprj/
+*.autosave
+
+# Big files
+*.zip
+*compressed*.mp4
+
+# OS
+Thumbs.db
